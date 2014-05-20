@@ -1,6 +1,6 @@
 # foreman_monitoring
 
-Monitoring is listed as one of the features for Foreman, but the reality is that currently there is very little monitoring done. foreman_monitoring is a plugin that aims to fill the current gaps in the monitoring capabilities of Foreman by building on Nagios. The results will be made available by adding a health checks layer to the hosts view.
+Monitoring is listed as one of the features for Foreman, but the reality is that in the base installation there is currently very little monitoring done. foreman_monitoring is a plugin that aims to fill the current gaps in the monitoring capabilities of Foreman by building on Nagios. The results will be made available by adding a health checks layer to the hosts view.
 
 
 ## Installation
