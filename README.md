@@ -1,6 +1,7 @@
 # foreman_monitoring
 
-foreman_monitoring is a plugin for Foreman which allows users/admins to monitor the health and status of all the hosts in the cluster.
+Monitoring is listed as one of the features for Foreman, but the reality is that currently there is very little monitoring done. foreman_monitoring is a plugin that aims to fill the current gaps in the monitoring capabilities of Foreman by building on Nagios. The results will be made available by adding a health checks layer to the hosts view.
+
 
 ## Installation
 
