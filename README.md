@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ForemanMonitoring
 
 *Introdction here*
@@ -22,7 +21,7 @@ Fork and send a Pull Request. Thanks!
 
 ## Copyright
 
-Copyright (c) *year* *your name*
+Copyright (c) 2104 Anya Elise Marshall
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -36,8 +35,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-=======
-foreman_monitoring
-==================
->>>>>>> e43ea3f2a34d3512f8e0cb98dddf10ade4ef1385
