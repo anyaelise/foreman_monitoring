@@ -1,7 +1,7 @@
 # foreman_monitoring
 
+####Overview:
 Monitoring is listed as one of the features for Foreman, but the reality is that in the base installation there is currently very little monitoring done outside of Puppet reports. foreman_monitoring is a plugin that aims to fill the current gaps in the monitoring capabilities of Foreman by incorporating functionality from Nagios, Ganglia, and other monitoring systems. The results will be made available by adding a health checks layer to the hosts view.
-
 
 ## Installation
 
@@ -22,7 +22,7 @@ Fork and send a Pull Request. Thanks!
 
 ## Copyright
 
-Copyright (c) 2104 Anya Elise Marshall
+Copyright (c) 2014 Anya Elise Marshall
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
