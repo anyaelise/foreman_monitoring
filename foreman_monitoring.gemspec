@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.name        = "foreman_monitoring"
   s.version     = ForemanMonitoring::VERSION
   s.date        = Date.today.to_s
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["Anya Marshall"]
+  s.email       = ["anya.elise.marshall@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of ForemanMonitoring."
   s.description = "TODO: Description of ForemanMonitoring."
