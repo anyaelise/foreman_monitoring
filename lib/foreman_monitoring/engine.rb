@@ -25,12 +25,6 @@ module ForemanMonitoring
         # Add a new role called 'Discovery' if it doesn't exist
         role "ForemanMonitoring", [:view_foreman_monitoring]
 
-        #add menu entry
-        menu :top_menu, :template,
-             :url_hash => {:controller => :'foreman_monitoring/hosts', :action => :new_action },
-             :caption  => 'ForemanMonitoring',
-             :parent   => :hosts_menu,
-             :after    => :hosts
       end
     end
 
